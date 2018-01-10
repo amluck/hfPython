@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='nester',
-    package=["nester"],
+    packages=["nester"],
     version='1.0.0',
     description='first try',
     author='chen',
